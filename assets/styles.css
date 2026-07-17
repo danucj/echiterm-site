@@ -61,7 +61,7 @@ a {
   flex: 0 0 34px;
   background: transparent;
   border: 0;
-  box-shadow: none;
+    box-shadow: 0 8px 18px rgba(33, 103, 232, 0.28);
 }
 
 .brand {
