@@ -61,7 +61,8 @@ a {
   flex: 0 0 34px;
   background: transparent;
   border: 0;
-  box-shadow: 0 8px 18px rgba(33, 103, 232, 0.28);
+  box-shadow: none;
+  filter: drop-shadow(0 8px 8px rgba(33, 103, 232, 0.28));
 }
 
 .brand {
