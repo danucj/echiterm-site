@@ -59,6 +59,9 @@ a {
   width: 34px;
   height: 34px;
   flex: 0 0 34px;
+  background: transparent;
+  border: 0;
+  box-shadow: none;
 }
 
 .brand {
