@@ -54,14 +54,15 @@ a {
 }
 
 .brand-mark {
-  display: grid;
-  place-items: center;
+  display: block;
+  object-fit: contain;
   width: 34px;
   height: 34px;
-  border-radius: 10px;
-  color: white;
-  background: var(--accent);
-  box-shadow: 0 8px 18px rgba(33, 103, 232, 0.28);
+  flex: 0 0 34px;
+}
+
+.brand {
+  color: #22427c;
 }
 
 .nav {
